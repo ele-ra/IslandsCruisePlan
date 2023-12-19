@@ -24,7 +24,7 @@ Tour:
 https://www.viator.com/tours/Castries/St-Lucia-Highlights-Tour/d50293-8083P1 - 70 total, start 9 am, no admission
 included.
 
-
+# Stop #2
 ## _Barbados_ ```7-00 - 17-30```
 
 Scooter Rent: +12464290762
@@ -48,7 +48,7 @@ More info:
 
 https://travel.usnews.com/Barbados/Things_To_Do/
 
-
+# Stop #3
 ## _Guadeloupe_ ```9-00 - 22-30```
 
 Scooter Rent:
@@ -70,6 +70,7 @@ More info:
 
 https://www.ontheluce.com/things-to-do-guadeloupe-caribbean/
 
+# Stop #4
 ## _Dominica_ ```9-00 - 17-30```
 
 Scooter Rent: 767 277-7460
@@ -91,12 +92,12 @@ More info:
 
 https://www.responsibletravel.com/holidays/dominica/travel-guide/places-to-visit-in-dominica
 
-
+# Stop #5
 ## _Antigua_ ```8-00 - 17-30```
 
 Scooter Rent: +12687717288
 
-It is far of area of arrival - Heritage Quay(there isn't something closer): 20 min by car. 
+It is far of area of arrival - Heritage Quay(there isn't something closer): 20 min by car.
 
 https://www.evbikesrentals.com/
 
@@ -119,7 +120,7 @@ More info:
 
 https://www.thetimes.co.uk/travel/destinations/caribbean/antigua/best-things-to-do-on-antigua
 
-
+# Stop #6
 ## _Saint Martin_ ```8-00 - 18-30```
 
 Scooter Rent: +17215533315
@@ -143,6 +144,7 @@ More info:
 
 https://sandinmysuitcase.com/things-to-do-in-saint-martin/#St-Maarten
 
+# Stop #7
 ## _Tortola_ ```7-00 - 13-30```
 
 Scooter Rent: +12845460181
@@ -152,8 +154,8 @@ It is close to area of arrival - Road Town.
 
 ####  To see:
 - Sage Mountain National Park – forest, 20 min car. Admission - 3 USD.
-- Apple Bay - beach: 25 min by car. 
-- Smuggler's Cove - beach, close to previous spot. 
+- Apple Bay - beach: 25 min by car.
+- Smuggler's Cove - beach, close to previous spot.
 - J.R. O’Neal Botanical Garden - garden: 10 min walk. Admission - 3 USD.
 
 There are small islands nearby, may be take a tour to snorkel.
@@ -161,3 +163,6 @@ There are small islands nearby, may be take a tour to snorkel.
 More info:
 
 https://www.oceanblisscharters.com/post/tortola-day-trip-top-10-things-to-do-in-tortola
+
+# Stop #8
+## _La Romana_ ```8-00```
