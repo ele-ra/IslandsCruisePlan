@@ -166,3 +166,8 @@ https://www.oceanblisscharters.com/post/tortola-day-trip-top-10-things-to-do-in-
 
 # Stop #8
 ## _La Romana_ ```8-00```
+
+
+----
+**Note:** _Distances are given from the scooter rent place/port (not from point to point). It must be
+adjusted to optimised route._
